@@ -1,0 +1,4 @@
+Name: instant-emoji
+Requires: client-data
+Frontend-Plugin: yes
+Frontend-libs: /static/instant-emoji.js
